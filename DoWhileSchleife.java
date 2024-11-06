@@ -12,11 +12,11 @@ public class DoWhileSchleife {
 	 */
 	public static void main(String[] args) {
 		int zahl = 1;
-		
+		// Lakukan lah ini
 		do {
 			System.out.println(zahl);
 			zahl++;
-		} while(zahl <= 10);
+		} while(zahl <= 10); // Selagi ini berlaku
 
 	}
 
